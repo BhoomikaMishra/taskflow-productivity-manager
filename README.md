@@ -45,7 +45,7 @@ This project was developed to strengthen core frontend development skills, inclu
 
 ## ✨ Features
 
-- ✅ Add new tasks
+- ➕ Add new tasks
 - ✏️ Edit existing tasks
 - 🗑️ Delete tasks
 - ✔️ Mark tasks as completed
@@ -59,7 +59,7 @@ This project was developed to strengthen core frontend development skills, inclu
 
 ---
 
-## 📸 Application Preview
+## 📷Application Preview
 
 <p align="center">
   <img src="images/light-mode.png" alt="TaskFlow Light Mode" width="48%">
@@ -79,7 +79,7 @@ This project was developed to strengthen core frontend development skills, inclu
 |------------|---------|
 | HTML5 | Structure and semantic layout |
 | CSS3 | Styling, animations, and responsive design |
-| JavaScript (ES6) | Application logic and DOM manipulation |
+| JavaScript | Application logic and DOM manipulation |
 | Local Storage | Persist task data in the browser |
 | Git | Version control |
 | GitHub | Code hosting and collaboration |
